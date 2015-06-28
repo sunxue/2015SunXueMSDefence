@@ -1,4 +1,4 @@
-TeXFileName = xetex-beamer
+TeXFileName = 2015SunXueMSDefence
 
 sources = ${TeXFileName}.tex  
 

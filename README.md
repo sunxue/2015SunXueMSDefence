@@ -1,4 +1,4 @@
-LaTeX_beamer-template
+MasterDefence
 =====================
 
-LaTeX beamer template for slide of zhenglab.
+The defence for Master degree
